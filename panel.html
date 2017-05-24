@@ -1,0 +1,28 @@
+<div class="cep-dialog modal">
+    <div class="modal-heade">
+        <h1 class="dialog-title">{{title}}</h1>
+    </div>
+    <div class="modal-body">
+        <div class="field-container">
+            <div class="form-inline">
+                <label>{{cert}}:</label>
+                <br/>
+                <input type="text" value="" id="certificate" />
+                <button class="dialog-button btn primary" id="selectcertificate">Browse</button>
+                <br/>
+                <label>Output Dir:</label>
+                <br/>
+                <input type="text" value="" id="outputdir" />
+                <button class="dialog-button btn primary" id="selectoutput">Browse</button>
+                <br/>
+                <label>Cert Password:</label>
+                <br/>
+                <input type="password" value="" id="certpass" />
+            </div>
+        </div>
+    </div>
+    <div class="modal-footer">
+        <button class="dialog-button btn primary" data-button-id="close" id="cancel">CALCEL</button>
+        <button class="dialog-button btn primary" data-button-id="next" id="package">Package</button>
+    </div>
+</div>

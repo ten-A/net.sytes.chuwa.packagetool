@@ -1,0 +1,12 @@
+{
+    "name": "net.sytes.chuwa.packagetool",
+    "title": "Package Tool",
+    "description": "Package Tool for CEP Extensions",
+    "homepage": "http://ten5963.wordpress.com",
+    "version": "0.0.1",
+    "author": "Ten A",
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.25.0"
+    }
+}   

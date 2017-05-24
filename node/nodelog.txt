@@ -1,0 +1,336 @@
+start Mon May 01 2017 10:26:20 GMT+0900 (JST) -- Platform: darwin
+start Mon May 01 2017 10:26:56 GMT+0900 (JST) -- Platform: darwin
+Exec:chmod 755 '/Users/No41/Library/Application Support/Brackets/extensions/user/com.henrikstabell.ccextensionbuilder/node/../CC-EXT-SDK/setdebugmode.sh'
+Exec:chmod 755 '/Users/No41/Library/Application Support/Brackets/extensions/user/com.henrikstabell.ccextensionbuilder/node/../CC-EXT-SDK/createext.sh'
+start Tue May 02 2017 09:44:31 GMT+0900 (JST) -- Platform: darwin
+Exec:chmod 755 '/Applications/Brackets.app/Contents/www/extensions/default/ExtensionTool/node/../ExtensionTool/osx/ZXPSignCmd'
+start Tue May 02 2017 09:50:16 GMT+0900 (JST) -- Platform: darwin
+Exec:chmod 755 '/Applications/Brackets.app/Contents/www/extensions/default/ExtensionTool/node/../ExtensionTool/osx/ZXPSignCmd'
+start Tue May 02 2017 09:51:04 GMT+0900 (JST) -- Platform: darwin
+Exec:chmod 755 '/Applications/Brackets.app/Contents/www/extensions/default/ExtensionTool/node/../ExtensionTool/osx/ZXPSignCmd'
+start Tue May 02 2017 09:52:47 GMT+0900 (JST) -- Platform: darwin
+Exec:chmod 755 '/Applications/Brackets.app/Contents/www/extensions/default/ExtensionTool/node/../ExtensionTool/osx/ZXPSignCmd'
+start Tue May 02 2017 09:54:38 GMT+0900 (JST) -- Platform: darwin
+Exec:chmod 755 '/Applications/Brackets.app/Contents/www/extensions/default/ExtensionTool/node/../ExtensionTool/osx/ZXPSignCmd'
+start Tue May 02 2017 09:55:56 GMT+0900 (JST) -- Platform: darwin
+Exec:chmod 755 '/Applications/Brackets.app/Contents/www/extensions/default/ExtensionTool/node/../ExtensionTool/osx/ZXPSignCmd'
+start Tue May 02 2017 09:58:41 GMT+0900 (JST) -- Platform: darwin
+Exec:chmod 755 '/Applications/Brackets.app/Contents/www/extensions/default/ExtensionTool/node/../ExtensionTool/osx/ZXPSignCmd'
+start Tue May 02 2017 09:59:18 GMT+0900 (JST) -- Platform: darwin
+Exec:chmod 755 '/Applications/Brackets.app/Contents/www/extensions/default/ExtensionTool/node/../ExtensionTool/osx/ZXPSignCmd'
+start Tue May 02 2017 10:05:31 GMT+0900 (JST) -- Platform: darwin
+Exec:chmod 755 '/Users/No41/Library/Application Support/Brackets/extensions/user/ExtensionTool/node/../ExtensionTool/osx/ZXPSignCmd'
+start Tue May 02 2017 10:07:42 GMT+0900 (JST) -- Platform: darwin
+Exec:chmod 755 '/Users/No41/Library/Application Support/Brackets/extensions/user/ExtensionTool/node/../ExtensionTool/osx/ZXPSignCmd'
+start Tue May 02 2017 10:09:24 GMT+0900 (JST) -- Platform: darwin
+Exec:chmod 755 '/Users/No41/Library/Application Support/Brackets/extensions/user/ExtensionTool/node/../ExtensionTool/osx/ZXPSignCmd'
+start Tue May 02 2017 10:12:21 GMT+0900 (JST) -- Platform: darwin
+Exec:chmod 755 '/Users/No41/Library/Application Support/Brackets/extensions/user/ExtensionTool/node/../ExtensionTool/osx/ZXPSignCmd'
+start Tue May 02 2017 10:15:16 GMT+0900 (JST) -- Platform: darwin
+Exec:chmod 755 '/Users/No41/Library/Application Support/Brackets/extensions/user/ExtensionTool/node/../ExtensionTool/osx/ZXPSignCmd'
+start Tue May 02 2017 10:17:38 GMT+0900 (JST) -- Platform: darwin
+Exec:chmod 755 '/Users/No41/Library/Application Support/Brackets/extensions/user/ExtensionTool/node/../ExtensionTool/osx/ZXPSignCmd'
+start Tue May 02 2017 10:18:39 GMT+0900 (JST) -- Platform: darwin
+Exec:chmod 755 '/Users/No41/Library/Application Support/Brackets/extensions/user/ExtensionTool/node/../ExtensionTool/osx/ZXPSignCmd'
+start Tue May 02 2017 10:19:11 GMT+0900 (JST) -- Platform: darwin
+Exec:chmod 755 '/Users/No41/Library/Application Support/Brackets/extensions/user/ExtensionTool/node/../ExtensionTool/osx/ZXPSignCmd'
+start Tue May 02 2017 10:19:52 GMT+0900 (JST) -- Platform: darwin
+Exec:chmod 755 '/Users/No41/Library/Application Support/Brackets/extensions/user/ExtensionTool/node/../ExtensionTool/osx/ZXPSignCmd'
+start Tue May 02 2017 10:21:04 GMT+0900 (JST) -- Platform: darwin
+Exec:chmod 755 '/Users/No41/Library/Application Support/Brackets/extensions/user/ExtensionTool/node/../ExtensionTool/osx/ZXPSignCmd'
+start Tue May 02 2017 10:22:19 GMT+0900 (JST) -- Platform: darwin
+Exec:chmod 755 '/Users/No41/Library/Application Support/Brackets/extensions/user/ExtensionTool/node/../ExtensionTool/osx/ZXPSignCmd'
+start Tue May 02 2017 10:23:11 GMT+0900 (JST) -- Platform: darwin
+Exec:chmod 755 '/Users/No41/Library/Application Support/Brackets/extensions/user/ExtensionTool/node/../ExtensionTool/osx/ZXPSignCmd'
+start Tue May 02 2017 10:25:27 GMT+0900 (JST) -- Platform: darwin
+Exec:chmod 755 '/Users/No41/Library/Application Support/Brackets/extensions/user/ExtensionTool/node/../ExtensionTool/osx/ZXPSignCmd'
+start Tue May 02 2017 10:26:44 GMT+0900 (JST) -- Platform: darwin
+Exec:chmod 755 '/Users/No41/Library/Application Support/Brackets/extensions/user/ExtensionTool/node/../ExtensionTool/osx/ZXPSignCmd'
+start Tue May 02 2017 10:27:32 GMT+0900 (JST) -- Platform: darwin
+Exec:chmod 755 '/Users/No41/Library/Application Support/Brackets/extensions/user/ExtensionTool/node/../ExtensionTool/osx/ZXPSignCmd'
+start Tue May 02 2017 10:28:00 GMT+0900 (JST) -- Platform: darwin
+Exec:chmod 755 '/Users/No41/Library/Application Support/Brackets/extensions/user/ExtensionTool/node/../ExtensionTool/osx/ZXPSignCmd'
+start Tue May 02 2017 10:28:30 GMT+0900 (JST) -- Platform: darwin
+Exec:chmod 755 '/Users/No41/Library/Application Support/Brackets/extensions/user/ExtensionTool/node/../ExtensionTool/osx/ZXPSignCmd'
+start Tue May 02 2017 10:29:11 GMT+0900 (JST) -- Platform: darwin
+Exec:chmod 755 '/Users/No41/Library/Application Support/Brackets/extensions/user/ExtensionTool/node/../ExtensionTool/osx/ZXPSignCmd'
+start Tue May 02 2017 10:30:01 GMT+0900 (JST) -- Platform: darwin
+Exec:chmod 755 '/Users/No41/Library/Application Support/Brackets/extensions/user/ExtensionTool/node/../ExtensionTool/osx/ZXPSignCmd'
+start Tue May 02 2017 10:30:58 GMT+0900 (JST) -- Platform: darwin
+Exec:chmod 755 '/Users/No41/Library/Application Support/Brackets/extensions/user/ExtensionTool/node/../ExtensionTool/osx/ZXPSignCmd'
+start Sat May 20 2017 14:58:06 GMT+0900 (JST) -- Platform: darwin
+Exec:chmod 755 '/Users/No41/Library/Application Support/Brackets/extensions/user/ExtensionTool/node/../ExtensionTool/osx/ZXPSignCmd'
+start Sat May 20 2017 15:27:45 GMT+0900 (JST) -- Platform: darwin
+Exec:chmod 755 '/Users/No41/Library/Application Support/Brackets/extensions/user/ExtensionTool/node/../ExtensionTool/osx/ZXPSignCmd'
+start Sat May 20 2017 15:28:34 GMT+0900 (JST) -- Platform: darwin
+Exec:chmod 755 '/Users/No41/Library/Application Support/Brackets/extensions/user/ExtensionTool/node/../ExtensionTool/osx/ZXPSignCmd'
+start Sat May 20 2017 15:52:32 GMT+0900 (JST) -- Platform: darwin
+Exec:chmod 755 '/Users/No41/Library/Application Support/Brackets/extensions/user/ExtensionTool/node/../ExtensionTool/osx/ZXPSignCmd'
+start Sat May 20 2017 15:53:03 GMT+0900 (JST) -- Platform: darwin
+Exec:chmod 755 '/Users/No41/Library/Application Support/Brackets/extensions/user/ExtensionTool/node/../ExtensionTool/osx/ZXPSignCmd'
+start Sat May 20 2017 15:56:55 GMT+0900 (JST) -- Platform: darwin
+Exec:chmod 755 '/Users/No41/Library/Application Support/Brackets/extensions/user/ExtensionTool/node/../ExtensionTool/osx/ZXPSignCmd'
+start Sat May 20 2017 15:57:16 GMT+0900 (JST) -- Platform: darwin
+Exec:chmod 755 '/Users/No41/Library/Application Support/Brackets/extensions/user/ExtensionTool/node/../ExtensionTool/osx/ZXPSignCmd'
+start Sat May 20 2017 15:57:55 GMT+0900 (JST) -- Platform: darwin
+Exec:chmod 755 '/Users/No41/Library/Application Support/Brackets/extensions/user/ExtensionTool/node/../ExtensionTool/osx/ZXPSignCmd'
+start Sat May 20 2017 16:02:56 GMT+0900 (JST) -- Platform: darwin
+Exec:chmod 755 '/Users/No41/Library/Application Support/Brackets/extensions/user/ExtensionTool/node/../ExtensionTool/osx/ZXPSignCmd'
+start Sat May 20 2017 16:07:10 GMT+0900 (JST) -- Platform: darwin
+Exec:chmod 755 '/Users/No41/Library/Application Support/Brackets/extensions/user/ExtensionTool/node/../ExtensionTool/osx/ZXPSignCmd'
+start Sat May 20 2017 16:13:17 GMT+0900 (JST) -- Platform: darwin
+Exec:chmod 755 '/Users/No41/Library/Application Support/Brackets/extensions/user/ExtensionTool/node/../ExtensionTool/osx/ZXPSignCmd'
+start Sat May 20 2017 16:16:17 GMT+0900 (JST) -- Platform: darwin
+Exec:chmod 755 '/Users/No41/Library/Application Support/Brackets/extensions/user/ExtensionTool/node/../ExtensionTool/osx/ZXPSignCmd'
+start Sat May 20 2017 16:17:18 GMT+0900 (JST) -- Platform: darwin
+Exec:chmod 755 '/Users/No41/Library/Application Support/Brackets/extensions/user/ExtensionTool/node/../ExtensionTool/osx/ZXPSignCmd'
+start Sat May 20 2017 16:23:13 GMT+0900 (JST) -- Platform: darwin
+Exec:chmod 755 '/Users/No41/Library/Application Support/Brackets/extensions/user/ExtensionTool/node/../ExtensionTool/osx/ZXPSignCmd'
+start Sat May 20 2017 16:27:10 GMT+0900 (JST) -- Platform: darwin
+Exec:chmod 755 '/Users/No41/Library/Application Support/Brackets/extensions/user/ExtensionTool/node/../ExtensionTool/osx/ZXPSignCmd'
+start Sat May 20 2017 16:27:51 GMT+0900 (JST) -- Platform: darwin
+Exec:chmod 755 '/Users/No41/Library/Application Support/Brackets/extensions/user/ExtensionTool/node/../ExtensionTool/osx/ZXPSignCmd'
+start Sat May 20 2017 16:31:48 GMT+0900 (JST) -- Platform: darwin
+Exec:chmod 755 '/Users/No41/Library/Application Support/Brackets/extensions/user/ExtensionTool/node/../ExtensionTool/osx/ZXPSignCmd'
+start Sat May 20 2017 16:34:17 GMT+0900 (JST) -- Platform: darwin
+Exec:chmod 755 '/Users/No41/Library/Application Support/Brackets/extensions/user/ExtensionTool/node/../ExtensionTool/osx/ZXPSignCmd'
+start Sat May 20 2017 16:43:33 GMT+0900 (JST) -- Platform: darwin
+Exec:chmod 755 '/Users/No41/Library/Application Support/Brackets/extensions/user/ExtensionTool/node/../ExtensionTool/osx/ZXPSignCmd'
+start Sat May 20 2017 16:50:58 GMT+0900 (JST) -- Platform: darwin
+Exec:chmod 755 '/Users/No41/Library/Application Support/Brackets/extensions/user/ExtensionTool/node/../ExtensionTool/osx/ZXPSignCmd'
+start Sat May 20 2017 17:10:05 GMT+0900 (JST) -- Platform: darwin
+Exec:chmod 755 '/Users/No41/Library/Application Support/Brackets/extensions/user/ExtensionTool/node/../ExtensionTool/osx/ZXPSignCmd'
+start Sat May 20 2017 17:18:00 GMT+0900 (JST) -- Platform: darwin
+Exec:chmod 755 '/Users/No41/Library/Application Support/Brackets/extensions/user/ExtensionTool/node/../ExtensionTool/osx/ZXPSignCmd'
+start Sat May 20 2017 17:22:26 GMT+0900 (JST) -- Platform: darwin
+Exec:chmod 755 '/Users/No41/Library/Application Support/Brackets/extensions/user/ExtensionTool/node/../ExtensionTool/osx/ZXPSignCmd'
+start Mon May 22 2017 16:58:10 GMT+0900 (JST) -- Platform: darwin
+Exec:chmod 755 '/Users/No41/Library/Application Support/Brackets/extensions/user/ExtensionTool/node/../ExtensionTool/osx/ZXPSignCmd'
+start Mon May 22 2017 17:00:46 GMT+0900 (JST) -- Platform: darwin
+Exec:chmod 755 '/Users/No41/Library/Application Support/Brackets/extensions/user/ExtensionTool/node/../ExtensionTool/osx/ZXPSignCmd'
+start Mon May 22 2017 17:19:51 GMT+0900 (JST) -- Platform: darwin
+Exec:chmod 755 '/Users/No41/Library/Application Support/Brackets/extensions/user/ExtensionTool/node/../ExtensionTool/osx/ZXPSignCmd'
+start Mon May 22 2017 17:20:17 GMT+0900 (JST) -- Platform: darwin
+Exec:chmod 755 '/Users/No41/Library/Application Support/Brackets/extensions/user/ExtensionTool/node/../ExtensionTool/osx/ZXPSignCmd'
+start Mon May 22 2017 17:27:38 GMT+0900 (JST) -- Platform: darwin
+Exec:chmod 755 '/Users/No41/Library/Application Support/Brackets/extensions/user/ExtensionTool/node/../ExtensionTool/osx/ZXPSignCmd'
+start Mon May 22 2017 17:32:51 GMT+0900 (JST) -- Platform: darwin
+Exec:chmod 755 '/Users/No41/Library/Application Support/Brackets/extensions/user/ExtensionTool/node/../ExtensionTool/osx/ZXPSignCmd'
+start Mon May 22 2017 17:37:18 GMT+0900 (JST) -- Platform: darwin
+Exec:chmod 755 '/Users/No41/Library/Application Support/Brackets/extensions/user/ExtensionTool/node/../ExtensionTool/osx/ZXPSignCmd'
+start Mon May 22 2017 17:38:09 GMT+0900 (JST) -- Platform: darwin
+Exec:chmod 755 '/Users/No41/Library/Application Support/Brackets/extensions/user/ExtensionTool/node/../ExtensionTool/osx/ZXPSignCmd'
+start Mon May 22 2017 17:39:09 GMT+0900 (JST) -- Platform: darwin
+Exec:chmod 755 '/Users/No41/Library/Application Support/Brackets/extensions/user/ExtensionTool/node/../ExtensionTool/osx/ZXPSignCmd'
+start Mon May 22 2017 17:42:29 GMT+0900 (JST) -- Platform: darwin
+Exec:chmod 755 '/Users/No41/Library/Application Support/Brackets/extensions/user/ExtensionTool/node/../ExtensionTool/osx/ZXPSignCmd'
+start Mon May 22 2017 18:35:14 GMT+0900 (JST) -- Platform: darwin
+Exec:chmod 755 '/Users/No41/Library/Application Support/Brackets/extensions/user/ExtensionTool/node/../ExtensionTool/osx/ZXPSignCmd'
+start Mon May 22 2017 18:40:02 GMT+0900 (JST) -- Platform: darwin
+Exec:chmod 755 '/Users/No41/Library/Application Support/Brackets/extensions/user/ExtensionTool/node/../ExtensionTool/osx/ZXPSignCmd'
+start Mon May 22 2017 18:58:05 GMT+0900 (JST) -- Platform: darwin
+Exec:chmod 755 '/Users/No41/Library/Application Support/Brackets/extensions/user/ExtensionTool/node/../ExtensionTool/osx/ZXPSignCmd'
+start Mon May 22 2017 19:00:52 GMT+0900 (JST) -- Platform: darwin
+Exec:chmod 755 '/Users/No41/Library/Application Support/Brackets/extensions/user/ExtensionTool/node/../ExtensionTool/osx/ZXPSignCmd'
+Exec:'/Users/No41/Library/Application Support/Brackets/extensions/user/ExtensionTool/ExtensionTool/ZXPSignCmd -sign /Library/Application Support/Adobe/CEP/extensions/net.sytes.chuwa.jsxlauncher/ /Library/Application Support/Adobe/CEP/extensions/net.sytes.chuwa.jsxlauncher/ /Users/No41/Documents/ten_a_new.p12 sa90125 -tsa http://tsa.safecreative.org'
+Error: Command failed: '/Users/No41/Library/Application Support/Brackets/extensions/user/ExtensionTool/ExtensionTool/ZXPSignCmd -sign /Library/Application Support/Adobe/CEP/extensions/net.sytes.chuwa.jsxlauncher/ /Library/Application Support/Adobe/CEP/extensions/net.sytes.chuwa.jsxlauncher/ /Users/No41/Documents/ten_a_new.p12 sa90125 -tsa http://tsa.safecreative.org'
+/bin/sh: /Users/No41/Library/Application Support/Brackets/extensions/user/ExtensionTool/ExtensionTool/ZXPSignCmd -sign /Library/Application Support/Adobe/CEP/extensions/net.sytes.chuwa.jsxlauncher/ /Library/Application Support/Adobe/CEP/extensions/net.sytes.chuwa.jsxlauncher/ /Users/No41/Documents/ten_a_new.p12 sa90125 -tsa http://tsa.safecreative.org: No such file or directory
+
+Exec:'/Users/No41/Library/Application Support/Brackets/extensions/user/ExtensionTool/ExtensionTool/ZXPSignCmd -sign /Library/Application Support/Adobe/CEP/extensions/net.sytes.chuwa.jsxlauncher/ /Library/Application Support/Adobe/CEP/extensions/net.sytes.chuwa.jsxlauncher/ /Users/No41/Documents/ten_a_new.p12 sa90125 -tsa http://time.certum.pl
+Error: Command failed: '/Users/No41/Library/Application Support/Brackets/extensions/user/ExtensionTool/ExtensionTool/ZXPSignCmd -sign /Library/Application Support/Adobe/CEP/extensions/net.sytes.chuwa.jsxlauncher/ /Library/Application Support/Adobe/CEP/extensions/net.sytes.chuwa.jsxlauncher/ /Users/No41/Documents/ten_a_new.p12 sa90125 -tsa http://time.certum.pl
+/bin/sh: -c: line 0: unexpected EOF while looking for matching `''
+/bin/sh: -c: line 1: syntax error: unexpected end of file
+
+start Tue May 23 2017 08:43:00 GMT+0900 (JST) -- Platform: darwin
+Exec:chmod 755 '/Users/No41/Library/Application Support/Brackets/extensions/user/ExtensionTool/node/../ExtensionTool/osx/ZXPSignCmd'
+Exec:'/Users/No41/Library/Application Support/Brackets/extensions/user/ExtensionTool/ExtensionTool/ZXPSignCmd -sign /Library/Application Support/Adobe/CEP/extensions/net.sytes.chuwa.jsxlauncher/ /Library/Application Support/Adobe/CEP/extensions/net.sytes.chuwa.jsxlauncher/ /Users/No41/Documents/tenA.p12 sa90125 -tsa http://time.certum.pl'
+Error: Command failed: '/Users/No41/Library/Application Support/Brackets/extensions/user/ExtensionTool/ExtensionTool/ZXPSignCmd -sign /Library/Application Support/Adobe/CEP/extensions/net.sytes.chuwa.jsxlauncher/ /Library/Application Support/Adobe/CEP/extensions/net.sytes.chuwa.jsxlauncher/ /Users/No41/Documents/tenA.p12 sa90125 -tsa http://time.certum.pl'
+/bin/sh: /Users/No41/Library/Application Support/Brackets/extensions/user/ExtensionTool/ExtensionTool/ZXPSignCmd -sign /Library/Application Support/Adobe/CEP/extensions/net.sytes.chuwa.jsxlauncher/ /Library/Application Support/Adobe/CEP/extensions/net.sytes.chuwa.jsxlauncher/ /Users/No41/Documents/tenA.p12 sa90125 -tsa http://time.certum.pl: No such file or directory
+
+start Tue May 23 2017 09:59:44 GMT+0900 (JST) -- Platform: darwin
+Exec:chmod 755 '/Users/No41/Library/Application Support/Brackets/extensions/user/ExtensionTool/node/../ExtensionTool/osx/ZXPSignCmd'
+Exec:/Users/No41/Library/Application Support/Brackets/extensions/user/ExtensionTool/ExtensionTool/ZXPSignCmd -sign /Library/Application Support/Adobe/CEP/extensions/net.sytes.chuwa.jsxlauncher/ /Library/Application Support/Adobe/CEP/extensions/net.sytes.chuwa.jsxlauncher/ /Users/No41/Documents/ten_a_new.p12 sa90125 -tsa http://time.certum.pl
+Error: Command failed: /Users/No41/Library/Application Support/Brackets/extensions/user/ExtensionTool/ExtensionTool/ZXPSignCmd -sign /Library/Application Support/Adobe/CEP/extensions/net.sytes.chuwa.jsxlauncher/ /Library/Application Support/Adobe/CEP/extensions/net.sytes.chuwa.jsxlauncher/ /Users/No41/Documents/ten_a_new.p12 sa90125 -tsa http://time.certum.pl
+/bin/sh: /Users/No41/Library/Application: No such file or directory
+
+start Tue May 23 2017 13:47:31 GMT+0900 (JST) -- Platform: darwin
+Exec:chmod 755 '/Users/No41/Library/Application Support/Brackets/extensions/user/ExtensionTool/node/../ExtensionTool/osx/ZXPSignCmd'
+Exec:/Users/No41/Library/Application\ Support/Brackets/extensions/user/ExtensionTool/ExtensionTool/ZXPSignCmd -sign /Library/Application\ Support/Adobe/CEP/extensions/net.sytes.chuwa.jsxlauncher/ /Library/Application\ Support/Adobe/CEP/extensions/net.sytes.chuwa.jsxlauncher/ /Users/No41/Documents/ten_a_new.p12 sa90125 -tsa http://time.certum.pl
+stdout:Signed successfully
+
+Exec:/Users/No41/Library/Application\ Support/Brackets/extensions/user/ExtensionTool/ExtensionTool/ZXPSignCmd -sign /Library/Application\ Support/Adobe/CEP/extensions/net.sytes.chuwa.jsxlauncher/ /Library/Application\ Support/Adobe/CEP/extensions/net.sytes.chuwa.jsxlauncher/ /Users/No41/Documents/ten_a_new.p12 sa90125 -tsa http://time.certum.pl
+stdout:Signed successfully
+
+start Tue May 23 2017 13:53:44 GMT+0900 (JST) -- Platform: darwin
+Exec:chmod 755 '/Users/No41/Library/Application Support/Brackets/extensions/user/ExtensionTool/node/../ExtensionTool/osx/ZXPSignCmd'
+Exec:/Users/No41/Library/Application\ Support/Brackets/extensions/user/ExtensionTool/ExtensionTool/ZXPSignCmd -sign /Library/Application\ Support/Adobe/CEP/extensions/net.sytes.chuwa.jsxlauncher/ /Users/No41/Documents.zxpnet.sytes.chuwa.jsxlauncher.zxp /Users/No41/Documents/ten_a_new.p12 sa90125 -tsa http://time.certum.pl
+stdout:Signed successfully
+
+Exec:/Users/No41/Library/Application\ Support/Brackets/extensions/user/ExtensionTool/ExtensionTool/ZXPSignCmd -sign /Library/Application\ Support/Adobe/CEP/extensions/net.sytes.chuwa.jsxlauncher/ /Users/No41/Documents.zxpnet.sytes.chuwa.jsxlauncher.zxp /Users/No41/Documents/ten_a_new.p12 sa90125 -tsa http://time.certum.pl
+stdout:Signed successfully
+
+start Tue May 23 2017 14:00:36 GMT+0900 (JST) -- Platform: darwin
+Exec:chmod 755 '/Users/No41/Library/Application Support/Brackets/extensions/user/ExtensionTool/node/../ExtensionTool/osx/ZXPSignCmd'
+Exec:/Users/No41/Library/Application\ Support/Brackets/extensions/user/ExtensionTool/ExtensionTool/ZXPSignCmd -sign /Library/Application\ Support/Adobe/CEP/extensions/net.sytes.chuwa.jsxlauncher/ /Users/No41/Documents/net.sytes.chuwa.jsxlauncher.zxp /Users/No41/Documents/ten_a_new.p12 sa90125 -tsa http://time.certum.pl
+stdout:Signed successfully
+
+start Tue May 23 2017 14:20:34 GMT+0900 (JST) -- Platform: darwin
+Exec:chmod 755 '/Users/No41/Library/Application Support/Brackets/extensions/user/ExtensionTool/node/../ExtensionTool/osx/ZXPSignCmd'
+Exec:/Users/No41/Library/Application\ Support/Brackets/extensions/user/ExtensionTool/ExtensionTool/ZXPSignCmd -sign /Library/Application\ Support/Adobe/CEP/extensions/net.sytes.chuwa.jsxlauncher/ /Users/No41/Documents/net.sytes.chuwa.jsxlauncher.zxp /Users/No41/Documents/ten_a_new.p12 sa90125 -tsa http://time.certum.pl
+stdout:Signed successfully
+
+start Tue May 23 2017 14:25:01 GMT+0900 (JST) -- Platform: darwin
+Exec:chmod 755 '/Users/No41/Library/Application Support/Brackets/extensions/user/ExtensionTool/node/../ExtensionTool/osx/ZXPSignCmd'
+Exec:/Users/No41/Library/Application\ Support/Brackets/extensions/user/ExtensionTool/ExtensionTool/ZXPSignCmd -sign /Library/Application\ Support/Adobe/CEP/extensions/net.sytes.chuwa.jsxlauncher/ /Users/No41/Documents/net.sytes.chuwa.jsxlauncher.zxp /Users/No41/Documents/unicodetosjistable.ods sa90125 -tsa http://time.certum.pl
+Error: Command failed: /Users/No41/Library/Application\ Support/Brackets/extensions/user/ExtensionTool/ExtensionTool/ZXPSignCmd -sign /Library/Application\ Support/Adobe/CEP/extensions/net.sytes.chuwa.jsxlauncher/ /Users/No41/Documents/net.sytes.chuwa.jsxlauncher.zxp /Users/No41/Documents/unicodetosjistable.ods sa90125 -tsa http://time.certum.pl
+Error - Could not read certificate file. Please check that any certificate file(s) are valid and that any supplied passwords are correct.
+
+Exec:/Users/No41/Library/Application\ Support/Brackets/extensions/user/ExtensionTool/ExtensionTool/ZXPSignCmd -sign /Library/Application\ Support/Adobe/CEP/extensions/net.sytes.chuwa.jsxlauncher/ /Users/No41/Documents/net.sytes.chuwa.jsxlauncher.zxp /Users/No41/Documents/ten_a_new.p12 sa90125 -tsa http://time.certum.pl
+stdout:Signed successfully
+
+Exec:/Users/No41/Library/Application\ Support/Brackets/extensions/user/ExtensionTool/ExtensionTool/ZXPSignCmd -sign /Library/Application\ Support/Adobe/CEP/extensions/net.sytes.chuwa.jsxlauncher/ /Users/No41/Documents/net.sytes.chuwa.jsxlauncher.zxp /Users/No41/Documents/ten_a_new.p12 sa90125 -tsa http://time.certum.pl
+stdout:Signed successfully
+
+start Tue May 23 2017 14:28:11 GMT+0900 (JST) -- Platform: darwin
+Exec:chmod 755 '/Users/No41/Library/Application Support/Brackets/extensions/user/ExtensionTool/node/../ExtensionTool/osx/ZXPSignCmd'
+Exec:/Users/No41/Library/Application\ Support/Brackets/extensions/user/ExtensionTool/ExtensionTool/ZXPSignCmd -sign /Library/Application\ Support/Adobe/CEP/extensions/net.sytes.chuwa.jsxlauncher/ /Users/No41/Documents/net.sytes.chuwa.jsxlauncher.zxp /Users/No41/Documents/ten_a_new.p12 sa90125 -tsa http://time.certum.pl
+stdout:Signed successfully
+
+Exec:/Users/No41/Library/Application\ Support/Brackets/extensions/user/ExtensionTool/ExtensionTool/ZXPSignCmd -sign /Library/Application\ Support/Adobe/CEP/extensions/net.sytes.chuwa.jsxlauncher/ /Users/No41/Documents/net.sytes.chuwa.jsxlauncher.zxp /Users/No41/Documents/color' sa90125 -tsa http://time.certum.pl
+Error: Command failed: /Users/No41/Library/Application\ Support/Brackets/extensions/user/ExtensionTool/ExtensionTool/ZXPSignCmd -sign /Library/Application\ Support/Adobe/CEP/extensions/net.sytes.chuwa.jsxlauncher/ /Users/No41/Documents/net.sytes.chuwa.jsxlauncher.zxp /Users/No41/Documents/color' sa90125 -tsa http://time.certum.pl
+/bin/sh: -c: line 0: unexpected EOF while looking for matching `''
+/bin/sh: -c: line 1: syntax error: unexpected end of file
+
+start Tue May 23 2017 14:31:37 GMT+0900 (JST) -- Platform: darwin
+Exec:chmod 755 '/Users/No41/Library/Application Support/Brackets/extensions/user/ExtensionTool/node/../ExtensionTool/osx/ZXPSignCmd'
+Exec:/Users/No41/Library/Application\ Support/Brackets/extensions/user/ExtensionTool/ExtensionTool/ZXPSignCmd -sign /Library/Application\ Support/Adobe/CEP/extensions/net.sytes.chuwa.jsxlauncher/ /Users/No41/Documents/net.sytes.chuwa.jsxlauncher.zxp /Users/No41/Documents/deny_ip sa90125 -tsa http://time.certum.pl
+Error: Command failed: /Users/No41/Library/Application\ Support/Brackets/extensions/user/ExtensionTool/ExtensionTool/ZXPSignCmd -sign /Library/Application\ Support/Adobe/CEP/extensions/net.sytes.chuwa.jsxlauncher/ /Users/No41/Documents/net.sytes.chuwa.jsxlauncher.zxp /Users/No41/Documents/deny_ip sa90125 -tsa http://time.certum.pl
+Error - Could not read certificate file. Please check that any certificate file(s) are valid and that any supplied passwords are correct.
+
+start Tue May 23 2017 14:32:45 GMT+0900 (JST) -- Platform: darwin
+Exec:chmod 755 '/Users/No41/Library/Application Support/Brackets/extensions/user/ExtensionTool/node/../ExtensionTool/osx/ZXPSignCmd'
+Exec:/Users/No41/Library/Application\ Support/Brackets/extensions/user/ExtensionTool/ExtensionTool/ZXPSignCmd -sign /Library/Application\ Support/Adobe/CEP/extensions/net.sytes.chuwa.jsxlauncher/ /Users/No41/Documents/net.sytes.chuwa.jsxlauncher.zxp /Users/No41/Documents/DV_dv629045.jpg sa90125 -tsa http://time.certum.pl
+Error: Command failed: /Users/No41/Library/Application\ Support/Brackets/extensions/user/ExtensionTool/ExtensionTool/ZXPSignCmd -sign /Library/Application\ Support/Adobe/CEP/extensions/net.sytes.chuwa.jsxlauncher/ /Users/No41/Documents/net.sytes.chuwa.jsxlauncher.zxp /Users/No41/Documents/DV_dv629045.jpg sa90125 -tsa http://time.certum.pl
+Error - Could not read certificate file. Please check that any certificate file(s) are valid and that any supplied passwords are correct.
+
+start Tue May 23 2017 14:34:51 GMT+0900 (JST) -- Platform: darwin
+Exec:chmod 755 '/Users/No41/Library/Application Support/Brackets/extensions/user/ExtensionTool/node/../ExtensionTool/osx/ZXPSignCmd'
+Exec:/Users/No41/Library/Application\ Support/Brackets/extensions/user/ExtensionTool/ExtensionTool/ZXPSignCmd -sign /Library/Application\ Support/Adobe/CEP/extensions/net.sytes.chuwa.jsxlauncher/ /Users/No41/Documents/net.sytes.chuwa.jsxlauncher.zxp /Users/No41/Documents/DV_dv629045.jpg sa90125 -tsa http://time.certum.pl
+Error: Command failed: /Users/No41/Library/Application\ Support/Brackets/extensions/user/ExtensionTool/ExtensionTool/ZXPSignCmd -sign /Library/Application\ Support/Adobe/CEP/extensions/net.sytes.chuwa.jsxlauncher/ /Users/No41/Documents/net.sytes.chuwa.jsxlauncher.zxp /Users/No41/Documents/DV_dv629045.jpg sa90125 -tsa http://time.certum.pl
+Error - Could not read certificate file. Please check that any certificate file(s) are valid and that any supplied passwords are correct.
+
+Exec:/Users/No41/Library/Application\ Support/Brackets/extensions/user/ExtensionTool/ExtensionTool/ZXPSignCmd -sign /Library/Application\ Support/Adobe/CEP/extensions/net.sytes.chuwa.jsxlauncher/ /Users/No41/Documents/net.sytes.chuwa.jsxlauncher.zxp /Users/No41/Documents/ten_a_new.p12 sa90125 -tsa http://time.certum.pl
+stdout:Signed successfully
+
+start Tue May 23 2017 14:35:59 GMT+0900 (JST) -- Platform: darwin
+Exec:chmod 755 '/Users/No41/Library/Application Support/Brackets/extensions/user/ExtensionTool/node/../ExtensionTool/osx/ZXPSignCmd'
+Exec:/Users/No41/Library/Application\ Support/Brackets/extensions/user/ExtensionTool/ExtensionTool/ZXPSignCmd -sign /Library/Application\ Support/Adobe/CEP/extensions/net.sytes.chuwa.jsxlauncher/ /Users/No41/Documents/net.sytes.chuwa.jsxlauncher.zxp /Users/No41/Documents/ten_a_new.p12 111111 -tsa http://time.certum.pl
+Error: Command failed: /Users/No41/Library/Application\ Support/Brackets/extensions/user/ExtensionTool/ExtensionTool/ZXPSignCmd -sign /Library/Application\ Support/Adobe/CEP/extensions/net.sytes.chuwa.jsxlauncher/ /Users/No41/Documents/net.sytes.chuwa.jsxlauncher.zxp /Users/No41/Documents/ten_a_new.p12 111111 -tsa http://time.certum.pl
+Error - Failed to parse certificate. Please check that your certificate file(s) are valid, stored in an accepted file format (e.g. PKCS12 'p12'), and that you have entered the correct password.
+
+Exec:/Users/No41/Library/Application\ Support/Brackets/extensions/user/ExtensionTool/ExtensionTool/ZXPSignCmd -sign /Library/Application\ Support/Adobe/CEP/extensions/net.sytes.chuwa.jsxlauncher/ /Users/No41/Documents/net.sytes.chuwa.jsxlauncher.zxp /Users/No41/Documents/ten_a_new.p12 sa90125 -tsa http://time.certum.pl
+stdout:Signed successfully
+
+start Tue May 23 2017 14:43:10 GMT+0900 (JST) -- Platform: darwin
+Exec:chmod 755 '/Users/No41/Library/Application Support/Brackets/extensions/user/ExtensionTool/node/../ExtensionTool/osx/ZXPSignCmd'
+start Tue May 23 2017 18:38:38 GMT+0900 (JST) -- Platform: darwin
+Exec:chmod 755 '/Users/No41/Library/Application Support/Brackets/extensions/user/ExtensionTool/node/../ExtensionTool/osx/ZXPSignCmd'
+Exec:/Users/No41/Library/Application\ Support/Brackets/extensions/user/ExtensionTool/ExtensionTool/ZXPSignCmd -sign /Library/Application\ Support/Adobe/CEP/extensions/net.sytes.chuwa.jsxlauncher/ /Users/No41/Documents/net.sytes.chuwa.jsxlauncher.zxp /Users/No41/Documents/ten_a_new.p12 sa90125 -tsa http://time.certum.pl
+stdout:Signed successfully
+
+start Tue May 23 2017 18:40:27 GMT+0900 (JST) -- Platform: darwin
+Exec:chmod 755 '/Users/No41/Library/Application Support/Brackets/extensions/user/ExtensionTool/node/../ExtensionTool/osx/ZXPSignCmd'
+Exec:/Users/No41/Library/Application\ Support/Brackets/extensions/user/ExtensionTool/ExtensionTool/ZXPSignCmd -sign /Library/Application\ Support/Adobe/CEP/extensions/net.sytes.chuwa.jsxlauncher/ /Users/No41/Documents/net.sytes.chuwa.jsxlauncher.zxp /Users/No41/Documents/deny_ip a -tsa http://time.certum.pl
+Error: Command failed: /Users/No41/Library/Application\ Support/Brackets/extensions/user/ExtensionTool/ExtensionTool/ZXPSignCmd -sign /Library/Application\ Support/Adobe/CEP/extensions/net.sytes.chuwa.jsxlauncher/ /Users/No41/Documents/net.sytes.chuwa.jsxlauncher.zxp /Users/No41/Documents/deny_ip a -tsa http://time.certum.pl
+Error - Could not read certificate file. Please check that any certificate file(s) are valid and that any supplied passwords are correct.
+
+Exec:/Users/No41/Library/Application\ Support/Brackets/extensions/user/ExtensionTool/ExtensionTool/ZXPSignCmd -sign /Library/Application\ Support/Adobe/CEP/extensions/net.sytes.chuwa.jsxlauncher/ /Users/No41/Documents/net.sytes.chuwa.jsxlauncher.zxp /Users/No41/Documents/ten_a_new.p12 aaaaaaaa -tsa http://time.certum.pl
+Error: Command failed: /Users/No41/Library/Application\ Support/Brackets/extensions/user/ExtensionTool/ExtensionTool/ZXPSignCmd -sign /Library/Application\ Support/Adobe/CEP/extensions/net.sytes.chuwa.jsxlauncher/ /Users/No41/Documents/net.sytes.chuwa.jsxlauncher.zxp /Users/No41/Documents/ten_a_new.p12 aaaaaaaa -tsa http://time.certum.pl
+Error - Failed to parse certificate. Please check that your certificate file(s) are valid, stored in an accepted file format (e.g. PKCS12 'p12'), and that you have entered the correct password.
+
+Exec:/Users/No41/Library/Application\ Support/Brackets/extensions/user/ExtensionTool/ExtensionTool/ZXPSignCmd -sign /Library/Application\ Support/Adobe/CEP/extensions/net.sytes.chuwa.jsxlauncher/ /Users/No41/Documents/net.sytes.chuwa.jsxlauncher.zxp /Users/No41/Documents/ten_a_new.p12 sa90125 -tsa http://time.certum.pl
+stdout:Signed successfully
+
+start Tue May 23 2017 18:43:29 GMT+0900 (JST) -- Platform: darwin
+Exec:chmod 755 '/Users/No41/Library/Application Support/Brackets/extensions/user/ExtensionTool/node/../ExtensionTool/osx/ZXPSignCmd'
+Exec:/Users/No41/Library/Application\ Support/Brackets/extensions/user/ExtensionTool/ExtensionTool/ZXPSignCmd -sign /Library/Application\ Support/Adobe/CEP/extensions/net.sytes.chuwa.jsxlauncher/ /Users/No41/Documents/net.sytes.chuwa.jsxlauncher.zxp /Users/No41/Documents/deny_ip a -tsa http://time.certum.pl
+Error: Command failed: /Users/No41/Library/Application\ Support/Brackets/extensions/user/ExtensionTool/ExtensionTool/ZXPSignCmd -sign /Library/Application\ Support/Adobe/CEP/extensions/net.sytes.chuwa.jsxlauncher/ /Users/No41/Documents/net.sytes.chuwa.jsxlauncher.zxp /Users/No41/Documents/deny_ip a -tsa http://time.certum.pl
+Error - Could not read certificate file. Please check that any certificate file(s) are valid and that any supplied passwords are correct.
+
+start Tue May 23 2017 18:45:25 GMT+0900 (JST) -- Platform: darwin
+Exec:chmod 755 '/Users/No41/Library/Application Support/Brackets/extensions/user/ExtensionTool/node/../ExtensionTool/osx/ZXPSignCmd'
+start Tue May 23 2017 18:45:47 GMT+0900 (JST) -- Platform: darwin
+Exec:chmod 755 '/Users/No41/Library/Application Support/Brackets/extensions/user/ExtensionTool/node/../ExtensionTool/osx/ZXPSignCmd'
+start Tue May 23 2017 18:52:20 GMT+0900 (JST) -- Platform: darwin
+Exec:chmod 755 '/Users/No41/Library/Application Support/Brackets/extensions/user/ExtensionTool/node/../ExtensionTool/osx/ZXPSignCmd'
+start Tue May 23 2017 18:53:21 GMT+0900 (JST) -- Platform: darwin
+Exec:chmod 755 '/Users/No41/Library/Application Support/Brackets/extensions/user/ExtensionTool/node/../ExtensionTool/osx/ZXPSignCmd'
+Exec:/Users/No41/Library/Application\ Support/Brackets/extensions/user/ExtensionTool/ExtensionTool/ZXPSignCmd -sign /Library/Application\ Support/Adobe/CEP/extensions/net.sytes.chuwa.jsxlauncher/ /Users/No41/Documents/net.sytes.chuwa.jsxlauncher.zxp /Users/No41/Documents/ten_a_new.p12 sa90125 -tsa http://time.certum.pl
+stdout:Signed successfully
+
+start Wed May 24 2017 09:44:11 GMT+0900 (JST) -- Platform: darwin
+Exec:chmod 755 '/Users/No41/Library/Application Support/Brackets/extensions/user/ExtensionTool/node/../ExtensionTool/osx/ZXPSignCmd'
+start Wed May 24 2017 09:45:06 GMT+0900 (JST) -- Platform: darwin
+Exec:chmod 755 '/Users/No41/Library/Application Support/Brackets/extensions/user/ExtensionTool/node/../ExtensionTool/osx/ZXPSignCmd'
+Exec:/Users/No41/Library/Application\ Support/Brackets/extensions/user/ExtensionTool/ExtensionTool/ZXPSignCmd -sign /Library/Application\ Support/Adobe/CEP/extensions/net.sytes.chuwa.jsxlauncher/ undefined /Users/No41/Documents/ten_a_new.p12 sa90125 -tsa http://time.certum.pl
+Error: Command failed: /Users/No41/Library/Application\ Support/Brackets/extensions/user/ExtensionTool/ExtensionTool/ZXPSignCmd -sign /Library/Application\ Support/Adobe/CEP/extensions/net.sytes.chuwa.jsxlauncher/ undefined /Users/No41/Documents/ten_a_new.p12 sa90125 -tsa http://time.certum.pl
+Error - Arguments are invalid. Process failed. 
+
+start Wed May 24 2017 09:55:40 GMT+0900 (JST) -- Platform: darwin
+Exec:chmod 755 '/Users/No41/Library/Application Support/Brackets/extensions/user/ExtensionTool/node/../ExtensionTool/osx/ZXPSignCmd'
+start Wed May 24 2017 09:56:55 GMT+0900 (JST) -- Platform: darwin
+Exec:chmod 755 '/Users/No41/Library/Application Support/Brackets/extensions/user/ExtensionTool/node/../ExtensionTool/osx/ZXPSignCmd'
+start Wed May 24 2017 09:58:16 GMT+0900 (JST) -- Platform: darwin
+Exec:chmod 755 '/Users/No41/Library/Application Support/Brackets/extensions/user/ExtensionTool/node/../ExtensionTool/osx/ZXPSignCmd'
+start Wed May 24 2017 10:03:13 GMT+0900 (JST) -- Platform: darwin
+Exec:chmod 755 '/Users/No41/Library/Application Support/Brackets/extensions/user/ExtensionTool/node/../ExtensionTool/osx/ZXPSignCmd'
+start Wed May 24 2017 10:07:43 GMT+0900 (JST) -- Platform: darwin
+Exec:chmod 755 '/Users/No41/Library/Application Support/Brackets/extensions/user/ExtensionTool/node/../ExtensionTool/osx/ZXPSignCmd'
+start Wed May 24 2017 10:08:49 GMT+0900 (JST) -- Platform: darwin
+Exec:chmod 755 '/Users/No41/Library/Application Support/Brackets/extensions/user/ExtensionTool/node/../ExtensionTool/osx/ZXPSignCmd'
+start Wed May 24 2017 10:09:22 GMT+0900 (JST) -- Platform: darwin
+Exec:chmod 755 '/Users/No41/Library/Application Support/Brackets/extensions/user/ExtensionTool/node/../ExtensionTool/osx/ZXPSignCmd'
+start Wed May 24 2017 10:10:34 GMT+0900 (JST) -- Platform: darwin
+Exec:chmod 755 '/Users/No41/Library/Application Support/Brackets/extensions/user/ExtensionTool/node/../ExtensionTool/osx/ZXPSignCmd'
+Exec:/ZXPSignCmdZXPSignCmd -sign /Library/Application\ Support/Adobe/CEP/extensions/net.sytes.chuwa.jsxlauncher/ /Users/No41/Documents/net.sytes.chuwa.jsxlauncher.zxp /Users/No41/Documents/ten_a_new.p12 sa90125 -tsa http://time.certum.pl
+Error: Command failed: /ZXPSignCmdZXPSignCmd -sign /Library/Application\ Support/Adobe/CEP/extensions/net.sytes.chuwa.jsxlauncher/ /Users/No41/Documents/net.sytes.chuwa.jsxlauncher.zxp /Users/No41/Documents/ten_a_new.p12 sa90125 -tsa http://time.certum.pl
+/bin/sh: /ZXPSignCmdZXPSignCmd: No such file or directory
+
+start Wed May 24 2017 10:12:08 GMT+0900 (JST) -- Platform: darwin
+Exec:chmod 755 '/Users/No41/Library/Application Support/Brackets/extensions/user/ExtensionTool/node/../ExtensionTool/osx/ZXPSignCmd'
+Exec:/ZXPSignCmd -sign /Library/Application\ Support/Adobe/CEP/extensions/net.sytes.chuwa.jsxlauncher/ /Users/No41/Documents/net.sytes.chuwa.jsxlauncher.zxp /Users/No41/Documents/ten_a_new.p12 sa90125 -tsa http://time.certum.pl
+stdout:Signed successfully
+
+Exec:/ZXPSignCmd -sign /Library/Application\ Support/Adobe/CEP/extensions/net.sytes.chuwa.jsxlauncher/ //net.sytes.chuwa.jsxlauncher.zxp /bara.eps aaaaa -tsa http://time.certum.pl
+Error: Command failed: /ZXPSignCmd -sign /Library/Application\ Support/Adobe/CEP/extensions/net.sytes.chuwa.jsxlauncher/ //net.sytes.chuwa.jsxlauncher.zxp /bara.eps aaaaa -tsa http://time.certum.pl
+Error - Arguments are invalid. Process failed. 
+
+Exec:/ZXPSignCmd -sign /Library/Application\ Support/Adobe/CEP/extensions/net.sytes.chuwa.jsxlauncher/ /Users/No41/Documents/net.sytes.chuwa.jsxlauncher.zxp /Users/No41/Documents/ten_a_new.p12 sa90125 -tsa http://time.certum.pl
+stdout:Signed successfully
+
+Exec:/ZXPSignCmd -sign /Library/Application\ Support/Adobe/CEP/extensions/net.sytes.chuwa.jsxlauncher/ /Users/xxxx/Documents/net.sytes.chuwa.jsxlauncher.zxp /Users/xxxx/Documents/ten_a_new.p12 sa90125 -tsa http://time.certum.pl
+Error: Command failed: /ZXPSignCmd -sign /Library/Application\ Support/Adobe/CEP/extensions/net.sytes.chuwa.jsxlauncher/ /Users/xxxx/Documents/net.sytes.chuwa.jsxlauncher.zxp /Users/xxxx/Documents/ten_a_new.p12 sa90125 -tsa http://time.certum.pl
+Error - Arguments are invalid. Process failed. 
+
+Exec:/ZXPSignCmd -sign /Library/Application\ Support/Adobe/CEP/extensions/net.sytes.chuwa.jsxlauncher/ /Users/No41/Documents/net.sytes.chuwa.jsxlauncher.zxp /Users/No41/Documents/ten_a_new.p12 sa90125 -tsa http://time.certum.pl
+stdout:Signed successfully
+
+Exec:/ZXPSignCmd -sign /Library/Application\ Support/Adobe/CEP/extensions/net.sytes.chuwa.jsxlauncher/ /Users/No41/Documents/net.sytes.chuwa.jsxlauncher.zxp /Users/No41/Documents/ten_a_new.p12 aaaaa -tsa http://time.certum.pl
+Error: Command failed: /ZXPSignCmd -sign /Library/Application\ Support/Adobe/CEP/extensions/net.sytes.chuwa.jsxlauncher/ /Users/No41/Documents/net.sytes.chuwa.jsxlauncher.zxp /Users/No41/Documents/ten_a_new.p12 aaaaa -tsa http://time.certum.pl
+Error - Failed to parse certificate. Please check that your certificate file(s) are valid, stored in an accepted file format (e.g. PKCS12 'p12'), and that you have entered the correct password.
+
+Exec:/ZXPSignCmd -sign /Library/Application\ Support/Adobe/CEP/extensions/net.sytes.chuwa.jsxlauncher/ /Users/No41/Documents/net.sytes.chuwa.jsxlauncher.zxp /Users/No41/Documents/deny_ip a -tsa http://time.certum.pl
+Error: Command failed: /ZXPSignCmd -sign /Library/Application\ Support/Adobe/CEP/extensions/net.sytes.chuwa.jsxlauncher/ /Users/No41/Documents/net.sytes.chuwa.jsxlauncher.zxp /Users/No41/Documents/deny_ip a -tsa http://time.certum.pl
+Error - Could not read certificate file. Please check that any certificate file(s) are valid and that any supplied passwords are correct.
+
+Exec:/ZXPSignCmd -sign /Library/Application\ Support/Adobe/CEP/extensions/net.sytes.chuwa.jsxlauncher/ /aaaa/net.sytes.chuwa.jsxlauncher.zxp /Users/No41/Documents/ten_a_new.p12 sa90125 -tsa http://time.certum.pl
+Error: Command failed: /ZXPSignCmd -sign /Library/Application\ Support/Adobe/CEP/extensions/net.sytes.chuwa.jsxlauncher/ /aaaa/net.sytes.chuwa.jsxlauncher.zxp /Users/No41/Documents/ten_a_new.p12 sa90125 -tsa http://time.certum.pl
+Error - Arguments are invalid. Process failed. 
+
+start Wed May 24 2017 11:56:17 GMT+0900 (JST) -- Platform: darwin
+Exec:chmod 755 '/Users/No41/Library/Application Support/Brackets/extensions/user/ExtensionTool/node/../ExtensionTool/osx/ZXPSignCmd'
+start Wed May 24 2017 12:09:06 GMT+0900 (JST) -- Platform: darwin
+Exec:chmod 755 '/Users/No41/Library/Application Support/Brackets/extensions/user/ExtensionTool/node/../ExtensionTool/osx/ZXPSignCmd'
+Error: Command failed: chmod 755 '/Users/No41/Library/Application Support/Brackets/extensions/user/ExtensionTool/node/../ExtensionTool/osx/ZXPSignCmd'
+chmod: /Users/No41/Library/Application Support/Brackets/extensions/user/ExtensionTool/node/../ExtensionTool/osx/ZXPSignCmd: No such file or directory
+

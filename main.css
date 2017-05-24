@@ -1,0 +1,30 @@
+.dialog-title {
+  margin-left: 10px;
+  margin-top: 10px;
+  font-size: 22px;
+  line-height: 30px;
+  font-weight: normal;
+}
+
+.dark .dialog-title {
+  color: #ffffff;
+}
+
+.modal-wrapper h1 {
+  font-size: 28px;
+  font-weight: 500;
+  padding: 10px;
+  line-height: 20px;
+  margin: 0px;
+}
+
+.full-width {
+  width: 100%;
+}
+
+.fix-float {
+  clear: both;
+  overflow: auto;
+  display: inline-block;
+  text-align: left;
+}
