@@ -1,9 +1,8 @@
 #[CEP ExtensionPackager for Brackets]
 A [Brackets](http://brackets.io/) extension to let you package HTML based extensions for Adobe Creative Cloud applications such as Photoshop, Illustrator, InDesign, Bridge, PremierePro, Audition, Prelude, Animate and Dreamweaver.
 
-For more informations about CEP Extensions : 
-https://github.com/Adobe-CEP
-https://ten5963.wordpress.com/
+For more informations about CEP Extensions :
+[Adobe CEP Reaource](https://github.com/Adobe-CEP), My Blog also help your work [CC Labo](https://ten5963.wordpress.com/)
 
 
 ##Installation
