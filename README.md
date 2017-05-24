@@ -13,7 +13,7 @@ My Blog also help your work [CC Labo](https://ten5963.wordpress.com/)
 You don't need to download anything. Just do the following:
 
 1. Open [Brackets](http://brackets.io/)
-2. Choose `File > Extension Manager` and install it from the "Available" list to use the latest production build, or choose `Install from URL` to install the latest version from this repo.
+2. Choose `File > Extension Manager` and install it from choose `Install from URL` to install the latest version from this repo.
 3. Download the ZXPSignCmd tool from https://github.com/Adobe-CEP/CEP-Resources/tree/master/ZXPSignCMD.
 
 No need to relaunch the app, your extension is ready to use.
