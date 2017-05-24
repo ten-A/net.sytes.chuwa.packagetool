@@ -13,7 +13,7 @@ My Blog also help your work [CC Labo](https://ten5963.wordpress.com/)
 Just do the following:
 
 1. Open [Brackets](http://brackets.io/)
-2. Choose `File > Extension Manager` and install it from choose `Install from URL` to install the latest version from this repo.
+2. Choose `File > Extension Manager` and click `Install from URL` to install the latest version from this repo.
 3. Download the ZXPSignCmd tool from https://github.com/Adobe-CEP/CEP-Resources/tree/master/ZXPSignCMD.
 
 No need to relaunch the app, your extension is ready to use.
@@ -22,6 +22,6 @@ No need to relaunch the app, your extension is ready to use.
 
 ##How to use it
 
-1. Start Brackes. Choose `Package Current Project > Select ZXPSignCmd Tool` and select your ZXPSignCmd tool. Bracket will save tools path in preferences.
+1. Start Brackes. Choose `Package Current Project > Select ZXPSignCmd Tool` and select your ZXPSignCmd tool. Bracket will save tool path in preferences.
 2. Open your Extension project and choose `Package Current Project > Package Current Project`.
 3. Choose certificate file and deploy path, enter your certification password and click package button.
