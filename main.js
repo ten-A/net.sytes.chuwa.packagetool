@@ -25,6 +25,8 @@ define(function (require, exports, module) {
 
     var alertTemplate = require("text!alert-dialog.html");
     var msg = {title:"Warning.",message:"sample string"};
+    
+    var prefTemplate = require("text!prefpanel.html");
 
 
     var ET_MENU_ID  = "ExtensionTool.menu";
@@ -33,6 +35,8 @@ define(function (require, exports, module) {
     var ET_MENU_NAME   = "Package Current Project";
     var ET_SELECT_SIGNCMD_ID = "ExtensionTool.selectSignTool";
     var ET_SELECT_SIGNCMD_NAME = "Select ZXPSignCmd Tool";
+    var ET_PREF_ID = "ExtensionTool.pref";
+    var ET_PREF_NAME = "Packager Preferences";
     
     
     var EXT_FOLDER_NAME = "/ExtensionTool/";
@@ -141,15 +145,15 @@ define(function (require, exports, module) {
     }
 
     function makePackage(data) {
-        var cmd;
+        var cmd, tsapath;
         if(isWin) {
             //At this release, Windows disabled. Please wait next update.
             //cmd = '"exttoolFolder.fullPath.replace(/\s+/g, "\ ") + "ZXPSignCmd.exe" + '" default ' + data.extid + "'";
         } else {
             cmd = prefs.get("signCmd").replace(/\s+/g, "\\ ") + " -sign "
                 + data.extensionPath + " " + data.zxpPath
-                + " " + data.certificatePath + " " +data.certificatePassword
-                + " -tsa http://time.certum.pl";
+                + " " + data.certificatePath + " " +data.certificatePassword;
+                if (prefs.get("tsaserv")!="") cmd += " -tsa " + prefs.get("tsaserv");
         } 
         console.log("Brackets cmd:"+cmd);
         var exePromise = nodeConnection.domains.exttool.execmd(cmd);
@@ -176,7 +180,35 @@ define(function (require, exports, module) {
         initNodeCnx();
     });
 
+    
+    function editPref(){
+        var dialog = Dialogs.showModalDialogUsingTemplate(prefTemplate, false);
+        ExtensionUtils.loadStyleSheet(module, "main.css");
+        $("#signcmdpath").val(prefs.get("signCmd"));
+        $("#timestampsrv").val(prefs.get("tsaserv"));
+       
+         $("#selectsigncmd").on("click", function (e) {
+            FileSystem.showOpenDialog(false, false, "Select ZXPSignCmd file...", null, null, 
+                function(err, signcmd) {
+                    if (err || (!err && signcmd.length === 0)) {
+                        console.log("Err or dialog cancelled");
+                    } else {
+                        $("#signcmdpath").val(signcmd[0]);
+                    }
+            });
+        });
+        
+        $("#prefdone").on("click", function (e) {
+            prefs.set("signCmd", $("#signcmdpath").val());
+            prefs.set("tsaserv", $("#timestampsrv").val());
+            dialog.close();
+        });
+        
+        
+    }
+    
     function setupMenu(){
+        /*
         CommandManager.register(ET_SELECT_SIGNCMD_NAME, ET_SELECT_SIGNCMD_ID, selectSignCmd);
         function selectSignCmd(){
             FileSystem.showOpenDialog(false, false, "Select ZXPSignCmd file...", null, null, 
@@ -187,8 +219,13 @@ define(function (require, exports, module) {
                         prefs.set("signCmd", signcmd[0]);
                     }
             });
-        }
-
+        }*/
+        
+        CommandManager.register(ET_PREF_NAME,ET_PREF_ID,
+            function(){
+                editPref();
+            });
+        
         CommandManager.register(ET_MENU_NAME, ET_CMDID,
             function(){
                 createPackage();
@@ -200,8 +237,9 @@ define(function (require, exports, module) {
         }
 
 
-        expackMenu.addMenuItem(ET_SELECT_SIGNCMD_ID);
+        //expackMenu.addMenuItem(ET_SELECT_SIGNCMD_ID);
         expackMenu.addMenuItem(ET_CMDID);
+        expackMenu.addMenuItem(ET_PREF_ID);
 
     }
     setupMenu();

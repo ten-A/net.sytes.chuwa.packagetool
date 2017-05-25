@@ -3,7 +3,7 @@
     "title": "Package Tool",
     "description": "Package Tool for CEP Extensions",
     "homepage": "http://ten5963.wordpress.com",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "author": "Ten A",
     "license": "MIT",
     "engines": {
