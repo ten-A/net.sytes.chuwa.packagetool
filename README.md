@@ -18,6 +18,6 @@ No need to relaunch the app, your extension is ready to use.
 ##How to use it
 
 1. Start Brackes. Choose `Package Current Project > Packager Preferences`.
-2. Select your ZXPSignCmd tool. If you need to set timestamp type, input your time server address.
+2. Select your ZXPSignCmd tool. If you need to set timestamp, input your time server address.
 3. Open your Extension project and choose `Package Current Project > Package Current Project`.
 4. Choose certificate file and deploy path, enter your certification password and click package button.
